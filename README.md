@@ -1,6 +1,13 @@
 # ShenLan_PnC
 
-深蓝学院无人驾驶控制与规划第二期课程
+深蓝学院的规控课程，简单记点笔记。
+
+- Project 1 PID 纵向控制
+- Project 2 Stanley 横向控制
+- Project 3 LQR 横向控制
+- Project 4 MPC 横向控制
+- Project 5 Frenet 坐标系下的局部路径规划（Lattice Planner）
+- Project 6 Lanelet 2 高精度地图
 
 ## Carla-ROS 联合仿真环境配置
 
