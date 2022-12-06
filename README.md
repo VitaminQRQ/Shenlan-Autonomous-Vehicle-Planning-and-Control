@@ -1,4 +1,4 @@
-# ShenLan_PnC
+# Autonomous Vehicle Plannin and Control
 
 深蓝学院的规控课程，简单记点笔记。
 
